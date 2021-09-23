@@ -175,7 +175,7 @@ Conclusion
 
 
 
-# Modelling 
+# [Modelling](https://www.kaggle.com/jurk06/logistic-regression-delhi)
 	As we can see that it is some sort of classification problem based on this we need to find out 
 	For a particular district on given year when an accident occurred, it is a fatal or simple. I have ignored the effect of Non-fatal accident. 
 	To do the above we will have to perform some sort of features transformation, as most of the features in this dataset are categorical type. 
